@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\snakeSecond\snakeSecond\main.cpp(20,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Admin\source\repos\snakeSecond\snakeSecond\main.cpp(20,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Admin\source\repos\snakeSecond\snakeSecond\main.cpp(207,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\snakeSecond\snakeSecond\main.cpp(108,1): warning C4715: 'Snake::posCheckBad': not all control paths return a value
+  snakeSecond.vcxproj -> C:\Users\Admin\source\repos\snakeSecond\x64\Debug\snakeSecond.exe
